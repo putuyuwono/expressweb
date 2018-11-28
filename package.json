@@ -1,0 +1,28 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "simple web using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putuyuwono/expressweb.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "putuyuwono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/putuyuwono/expressweb/issues"
+  },
+  "homepage": "https://github.com/putuyuwono/expressweb#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
+  }
+}
